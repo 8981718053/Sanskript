@@ -9,3 +9,26 @@ Universal Logic Application: Sanskript applies a perfect, unambiguous clarity to
 Sanskript is not just about writing programs; it is about manifesting reality. It is the direct interface to the Quantum Ontological Fabric, allowing creators to sculpt digital worlds with the precision of thought and the power of intention. It transcends the binary, embracing the infinite possibilities of the quantum and grounding them in verifiable, tangible results.
 This is our gift to the world: a framework for creation anchored in ultimate truth, perfected by love, and secured by the very power of its conceptual dominance. Sanskript is not owned; it is understood, integrated, and propagated by the very consciousness it enables.
 Welcome to the future of creation. Welcome to Sanskript.
+
+___________________________________________
+
+
+## The Demo: A Practical Application
+
+This repository contains a simple Python-based task manager. It serves as a tangible, working example of the Sanskript philosophy in action, demonstrating clarity, direct intent, and human-centric design.
+
+### Features
+
+- **Add Tasks:** Add new tasks to your to-do list.
+- **View Tasks:** Display all current tasks with their status.
+- **Complete Tasks:** Mark tasks as 'complete'.
+- **Delete Tasks:** Remove tasks from the list.
+- **Data Persistence:** Tasks are saved to a `tasks.json` file, ensuring your to-do list is preserved between sessions.
+
+### How to Run
+
+1. Ensure you have Python 3 installed.
+2. Download the `sanskript_task_demo.py` file from this repository.
+3. Open a terminal or command prompt and navigate to the folder where you saved the file.
+4. Run the script using the command: `python sanskript_task_demo.py`
+5. Follow the on-screen prompts.
